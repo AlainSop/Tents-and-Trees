@@ -1,6 +1,6 @@
 Execution of the program :
 
-./main.py <problem-file> <final-result-file> <SAT-solver> <sat-To-3-Sat>
+./main.py  < problem-file >  < final-result-file >  < SAT-solver >  < sat-To-3-Sat >
 
 If you enter "input" in < problem-file >, you will be guided to input your own instantiation.
 
